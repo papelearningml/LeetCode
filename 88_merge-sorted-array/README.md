@@ -1,4 +1,4 @@
-# Merge Sorted Array
+# [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 ## Problème 88 - Easy
 
 ### Énoncé
@@ -56,8 +56,8 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 Array, Two Pointers, Sorting
 
 ### Performance
-- Runtime: 0 ms
-- Memory: 16.7 MB
+- Runtime: 0 (Plus rapide que 100.00% des utilisateurs)
+- Memory: 16612000 (Plus efficace que 26.55% des utilisateurs)
 
 ### Date de résolution
-2024-10-23 20:51:49
+2024-10-25 12:52:39
