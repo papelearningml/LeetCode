@@ -48,5 +48,5 @@ rotate 2 steps to the right: [3,99,-1,-100]
 Array, Math, Two Pointers
 
 ### Performance
-- Runtime: 0 ms
-- Memory: 24.6 MB
+- Runtime: 2 ms (Faster than 98.04% of users)
+- Memory: 24.6 MB (More efficient than 94.81% of users)
