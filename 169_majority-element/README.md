@@ -1,7 +1,7 @@
 # [Majority Element](https://leetcode.com/problems/majority-element)
-## Problème 169 - Easy
+## Problem 169 - Easy
 
-### Énoncé
+### Description
 <p>Given an array <code>nums</code> of size <code>n</code>, return <em>the majority element</em>.</p>
 
 <p>The majority element is the element that appears more than <code>&lfloor;n / 2&rfloor;</code> times. You may assume that the majority element always exists in the array.</p>
@@ -30,8 +30,5 @@
 Array, Hash Table, Divide and Conquer, Sorting, Counting
 
 ### Performance
-- Runtime: 3 (Plus rapide que 98.48% des utilisateurs)
-- Memory: 18356000 (Plus efficace que 6.86% des utilisateurs)
-
-### Date de résolution
-2024-10-25 06:03:41
+- Runtime: 7 (Faster than 96.41% of users)
+- Memory: 18420000 (More efficient than 6.86% of users)
