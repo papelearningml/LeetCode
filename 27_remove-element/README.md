@@ -1,4 +1,4 @@
-# Remove Element
+# [Remove Element](https://leetcode.com/problems/remove-element)
 ## Problème 27 - Easy
 
 ### Énoncé
@@ -66,8 +66,8 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 Array, Two Pointers
 
 ### Performance
-- Runtime: 0 ms
-- Memory: 16.5 MB
+- Runtime: 0 (Plus rapide que 100.00% des utilisateurs)
+- Memory: 16796000 (Plus efficace que 9.32% des utilisateurs)
 
 ### Date de résolution
-2024-10-24 17:32:09
+2024-10-25 11:31:44
