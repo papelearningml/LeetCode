@@ -30,8 +30,8 @@
 Array, Hash Table, Divide and Conquer, Sorting, Counting
 
 ### Performance
-- Runtime: 7 (Plus rapide que 96.41% des utilisateurs)
-- Memory: 18420000 (Plus efficace que 6.86% des utilisateurs)
+- Runtime: 3 (Plus rapide que 98.48% des utilisateurs)
+- Memory: 18356000 (Plus efficace que 6.86% des utilisateurs)
 
 ### Date de résolution
-2024-10-25 11:40:37
+2024-10-25 06:03:41
