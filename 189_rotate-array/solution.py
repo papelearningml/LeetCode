@@ -4,8 +4,8 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         n = len(nums)
-        k = k%n
+        k %= n
 
-        nums[:]=reversed(nums[:])
-        nums[:k]=reversed(nums[:k])
-        nums[k:]=reversed(nums[k:])
+        nums.reverse()
+        nums[:k] = reversed(nums[:k])
+        nums[k:] = reversed(nums[k:])
