@@ -1,7 +1,7 @@
 # [Remove Element](https://leetcode.com/problems/remove-element)
-## Problème 27 - Easy
+## Problem 27 - Easy
 
-### Énoncé
+### Description
 <p>Given an integer array <code>nums</code> and an integer <code>val</code>, remove all occurrences of <code>val</code> in <code>nums</code> <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a>. The order of the elements may be changed. Then return <em>the number of elements in </em><code>nums</code><em> which are not equal to </em><code>val</code>.</p>
 
 <p>Consider the number of elements in <code>nums</code> which are not equal to <code>val</code> be <code>k</code>, to get accepted, you need to do the following things:</p>
@@ -66,8 +66,5 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 Array, Two Pointers
 
 ### Performance
-- Runtime: 0 (Plus rapide que 100.00% des utilisateurs)
-- Memory: 16544000 (Plus efficace que 40.05% des utilisateurs)
-
-### Date de résolution
-2024-10-24 17:32:09
+- Runtime: 0 (Faster than 100.00% of users)
+- Memory: 16796000 (More efficient than 9.32% of users)
