@@ -67,4 +67,4 @@ Array, Two Pointers
 
 ### Performance
 - Runtime: 0 (Faster than 100.00% of users)
-- Memory: 16796000 (More efficient than 9.32% of users)
+- Memory: 16544000 (More efficient than 40.05% of users)
