@@ -1,7 +1,7 @@
 # [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
-## Problème 80 - Medium
+## Problem 80 - Medium
 
-### Énoncé
+### Description
 <p>Given an integer array <code>nums</code> sorted in <strong>non-decreasing order</strong>, remove some duplicates <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a> such that each unique element appears <strong>at most twice</strong>. The <strong>relative order</strong> of the elements should be kept the <strong>same</strong>.</p>
 
 <p>Since it is impossible to change the length of the array in some languages, you must instead have the result be placed in the <strong>first part</strong> of the array <code>nums</code>. More formally, if there are <code>k</code> elements after removing the duplicates, then the first <code>k</code> elements of <code>nums</code>&nbsp;should hold the final result. It does not matter what you leave beyond the first&nbsp;<code>k</code>&nbsp;elements.</p>
@@ -61,8 +61,5 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 Array, Two Pointers
 
 ### Performance
-- Runtime: 50 (Plus rapide que 66.00% des utilisateurs)
-- Memory: 16592000 (Plus efficace que 60.27% des utilisateurs)
-
-### Date de résolution
-2024-10-25 04:47:02
+- Runtime: 45 (Faster than 89.34% of users)
+- Memory: 16636000 (More efficient than 20.27% of users)
