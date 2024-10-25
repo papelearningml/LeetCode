@@ -1,7 +1,7 @@
 # [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
-## Problème 26 - Easy
+## Problem 26 - Easy
 
-### Énoncé
+### Description
 <p>Given an integer array <code>nums</code> sorted in <strong>non-decreasing order</strong>, remove the duplicates <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a> such that each unique element appears only <strong>once</strong>. The <strong>relative order</strong> of the elements should be kept the <strong>same</strong>. Then return <em>the number of unique elements in </em><code>nums</code>.</p>
 
 <p>Consider the number of unique elements of <code>nums</code> to be <code>k</code>, to get accepted, you need to do the following things:</p>
@@ -62,8 +62,5 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 Array, Two Pointers
 
 ### Performance
-- Runtime: 0 (Plus rapide que 100.00% des utilisateurs)
-- Memory: 17812000 (Plus efficace que 82.93% des utilisateurs)
-
-### Date de résolution
-2024-10-25 03:59:38
+- Runtime: 4 (Faster than 93.60% of users)
+- Memory: 17924000 (More efficient than 52.60% of users)
