@@ -39,5 +39,5 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 Array, Dynamic Programming
 
 ### Performance
-- Runtime: 133 (Faster than 92.54% of users)
-- Memory: 25920000 (More efficient than 96.54% of users)
+- Runtime: 125 ms
+- Memory: 26.0 MB
