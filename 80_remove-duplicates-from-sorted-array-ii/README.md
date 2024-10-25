@@ -61,8 +61,8 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 Array, Two Pointers
 
 ### Performance
-- Runtime: 50 ms
+- Runtime: 45 ms
 - Memory: 16.6 MB
 
 ### Date de résolution
-2024-10-25 04:47:02
+2024-10-25 11:38:54
