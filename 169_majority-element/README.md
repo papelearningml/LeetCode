@@ -1,4 +1,4 @@
-# Majority Element
+# [Majority Element](https://leetcode.com/problems/majority-element)
 ## Problème 169 - Easy
 
 ### Énoncé
@@ -30,8 +30,8 @@
 Array, Hash Table, Divide and Conquer, Sorting, Counting
 
 ### Performance
-- Runtime: 3 ms
-- Memory: 18.4 MB
+- Runtime: 7 (Plus rapide que 96.41% des utilisateurs)
+- Memory: 18420000 (Plus efficace que 6.86% des utilisateurs)
 
 ### Date de résolution
-2024-10-25 06:03:41
+2024-10-25 11:40:37
