@@ -1,4 +1,4 @@
-# Remove Duplicates from Sorted Array
+# [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 ## Problème 26 - Easy
 
 ### Énoncé
@@ -62,8 +62,8 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 Array, Two Pointers
 
 ### Performance
-- Runtime: 0 ms
-- Memory: 17.8 MB
+- Runtime: 4 (Plus rapide que 93.60% des utilisateurs)
+- Memory: 17924000 (Plus efficace que 52.60% des utilisateurs)
 
 ### Date de résolution
-2024-10-25 03:59:38
+2024-10-25 11:34:33
