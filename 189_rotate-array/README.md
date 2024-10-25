@@ -1,7 +1,7 @@
 # [Rotate Array](https://leetcode.com/problems/rotate-array)
-## Problème 189 - Medium
+## Problem 189 - Medium
 
-### Énoncé
+### Description
 <p>Given an integer array <code>nums</code>, rotate the array to the right by <code>k</code> steps, where <code>k</code> is non-negative.</p>
 
 <p>&nbsp;</p>
@@ -48,8 +48,5 @@ rotate 2 steps to the right: [3,99,-1,-100]
 Array, Math, Two Pointers
 
 ### Performance
-- Runtime: 0 (Plus rapide que 100.00% des utilisateurs)
-- Memory: 24616000 (Plus efficace que 94.81% des utilisateurs)
-
-### Date de résolution
-2024-10-25 07:15:43
+- Runtime: 2 (Faster than 98.04% of users)
+- Memory: 24604000 (More efficient than 94.81% of users)
