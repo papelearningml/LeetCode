@@ -1,4 +1,4 @@
-# Best Time to Buy and Sell Stock
+# [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 ## Problème 121 - Easy
 
 ### Énoncé
@@ -39,8 +39,8 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 Array, Dynamic Programming
 
 ### Performance
-- Runtime: 133 ms
-- Memory: 25.9 MB
+- Runtime: 125 (Plus rapide que 93.06% des utilisateurs)
+- Memory: 25984000 (Plus efficace que 96.54% des utilisateurs)
 
 ### Date de résolution
-2024-10-25 09:08:07
+2024-10-25 11:42:39
