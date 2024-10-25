@@ -30,5 +30,5 @@
 Array, Hash Table, Divide and Conquer, Sorting, Counting
 
 ### Performance
-- Runtime: 7 ms
+- Runtime: 3 ms
 - Memory: 18.4 MB
