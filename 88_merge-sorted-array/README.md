@@ -56,8 +56,8 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 Array, Two Pointers, Sorting
 
 ### Performance
-- Runtime: 4 ms
-- Memory: 16.8 MB
+- Runtime: 0 ms
+- Memory: 16.7 MB
 
 ### Date de résolution
-2024-10-25 11:33:28
+2024-10-25 11:17:39
