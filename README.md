@@ -19,4 +19,4 @@ This repository serves as a personal record of my LeetCode practice and progress
 
 ## Contact
 
-For questions or collaborations, feel free to reach me on [LinkedIn](https://www.linkedin.com/in/pape-babacar-diouf-113678222/).
+For questions or collaborations, feel free to reach me on [LinkedIn](https://www.linkedin.com/in/pbdiouf/).
